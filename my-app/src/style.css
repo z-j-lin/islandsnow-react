@@ -1,0 +1,25 @@
+body{
+  font-family: "Alegreya Sans";
+  line-height: 1.6em;
+  font-size: 16px;
+}
+.ui.borderless.topmenu.menu{
+  background-color: #f7f7f7;
+  box-shadow: none;
+  border: none;
+  padding: 10px;
+}
+
+.ui.borderless.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+  padding: 10px;
+}
+
+.footerSignup{
+  margin-top: 30px;
+}
+.ui.join.button{
+  background-color: #000000;
+  color: #ffffff;
+}
